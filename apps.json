@@ -1,18 +1,18 @@
 {
   "edit": {
     "version": "0.0.5",
-    "tar": "edit-0.0.5.tar.gz"
+    "tar": "edit-0.0.5.zip"
   },
   "files": {
     "version": "0.0.1",
-    "tar": "files-0.0.1.tar.gz"
+    "tar": "files-0.0.1.zip"
   },
   "term": {
     "version": "0.0.1",
-    "tar": "term-0.0.1.tar.gz"
+    "tar": "term-0.0.1.zip"
   },
   "image": {
     "version": "0.0.1",
-    "tar": "image-0.0.1.tar.gz"
+    "tar": "image-0.0.1.zip"
   }
 }
