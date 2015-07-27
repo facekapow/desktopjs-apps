@@ -1,0 +1,20 @@
+{
+  "name": "edit",
+  "main": "index.js",
+  "version": "0.0.1",
+  "authors": [
+    "ArielAbreu"
+  ],
+  "description": "desktop.js edit application",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "codemirror": "~5.5.0"
+  }
+}
